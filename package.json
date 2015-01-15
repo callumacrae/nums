@@ -1,0 +1,30 @@
+{
+  "name": "nums",
+  "version": "1.0.0",
+  "description": "Generates an array of numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test | faucet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/callumacrae/nums.git"
+  },
+  "keywords": [
+    "nums",
+    "numbers",
+    "math",
+    "maths",
+    "count"
+  ],
+  "author": "Callum Macrae <callum@macr.ae>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/callumacrae/nums/issues"
+  },
+  "homepage": "https://github.com/callumacrae/nums",
+  "devDependencies": {
+    "faucet": "0.0.1",
+    "tape": "^3.0.3"
+  }
+}
