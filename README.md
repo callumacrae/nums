@@ -1,4 +1,4 @@
-# nums
+# nums [![Build Status](https://travis-ci.org/callumacrae/nums.svg)](https://travis-ci.org/callumacrae/nums)
 
 A JavaScript library to generate an array of increasingly large or small
 numbers.
